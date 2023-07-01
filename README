@@ -1,0 +1,2 @@
+To run just run the command below passing the input image and output image paths:
+node image-processor.service.js images/test.jpg images/imagem_processada.jpg
